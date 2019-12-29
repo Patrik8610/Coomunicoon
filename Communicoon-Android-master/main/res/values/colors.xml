@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="coonDark">#4f5d73</color>
+    <color name="coonSuccess">#76c2af</color>
+    <color name="coonDanger">#C75C5C</color>
+    <color name="coonWhite">#fff</color>
+    <color name="coonWarning">#ffD166</color>
+</resources>
